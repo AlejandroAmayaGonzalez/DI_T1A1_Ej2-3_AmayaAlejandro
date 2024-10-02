@@ -1,3 +1,3 @@
-Autor: Alejandro Amaya González  
-Asignatura: DI
-Actividad 2.3
+Autor: Alejandro Amaya González |
+Asignatura: DI |
+Actividad 2.3 |
