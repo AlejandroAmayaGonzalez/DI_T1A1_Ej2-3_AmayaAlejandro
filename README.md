@@ -1,1 +1,3 @@
-# DI_T1A1_Ej2-3_AmayaAlejandro
+Autor: Alejandro Amaya González  
+Asignatura: DI
+Actividad 2.3
